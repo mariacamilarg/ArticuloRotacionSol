@@ -1,4 +1,4 @@
 ArticuloRotacionSol
 ===================
 
-Contiene el articulo para Seminario de Astronomía y Astrofísica
+Contiene el articulo para Seminario de Astronomía y Astrofísica.
